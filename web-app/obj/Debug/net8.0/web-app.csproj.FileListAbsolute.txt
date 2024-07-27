@@ -71,3 +71,4 @@
 /Users/mertmunar/oauth/web-app/obj/Debug/net8.0/web-app.pdb
 /Users/mertmunar/oauth/web-app/obj/Debug/net8.0/web-app.genruntimeconfig.cache
 /Users/mertmunar/oauth/web-app/obj/Debug/net8.0/ref/web-app.dll
+/Users/mertmunar/oauth/web-app/obj/Debug/net8.0/web-app.sourcelink.json
